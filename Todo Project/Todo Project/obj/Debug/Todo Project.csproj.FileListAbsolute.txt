@@ -1,0 +1,22 @@
+C:\Users\Admin\Documents\Todo Project\Todo Project\bin\Debug\Todo Project.exe.config
+C:\Users\Admin\Documents\Todo Project\Todo Project\bin\Debug\Todo Project.exe
+C:\Users\Admin\Documents\Todo Project\Todo Project\bin\Debug\Todo Project.pdb
+C:\Users\Admin\Documents\Todo Project\Todo Project\obj\Debug\Todo Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Todo Project\Todo Project\obj\Debug\Todo Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Todo Project\Todo Project\obj\Debug\Todo Project.exe
+C:\Users\Admin\Documents\Todo Project\Todo Project\obj\Debug\Todo Project.pdb
+C:\Users\Admin\Documents\Todo Project\Todo Project\bin\Debug\Todo Project.exe.manifest
+C:\Users\Admin\Documents\Todo Project\Todo Project\bin\Debug\Todo Project.application
+C:\Users\Admin\Documents\Todo Project\Todo Project\obj\Debug\Todo Project.exe.manifest
+C:\Users\Admin\Documents\Todo Project\Todo Project\obj\Debug\Todo Project.application
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\bin\Debug\Todo Project.exe.config
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\bin\Debug\Todo Project.exe.manifest
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\bin\Debug\Todo Project.application
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\bin\Debug\Todo Project.exe
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\bin\Debug\Todo Project.pdb
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\obj\Debug\Todo Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\obj\Debug\Todo Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\obj\Debug\Todo Project.exe.manifest
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\obj\Debug\Todo Project.application
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\obj\Debug\Todo Project.exe
+C:\Users\Admin\Documents\CSharp Projects\Todo Project\Todo Project\obj\Debug\Todo Project.pdb
